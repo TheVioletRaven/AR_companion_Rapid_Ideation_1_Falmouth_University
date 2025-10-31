@@ -1,3 +1,5 @@
 In my rapid ideation, I explored how empathy and ethics can shape an AR companion. I conducted research into how emotional design, transparency, and trust influence human–AI interaction. Based on those insights, I designed a storyboard, gathered feedback from participants in seven countries, refined the concept, and built my first prototype in Unity. 
 
 It was my first time working with AR and Unity, all within a very limited timeframe, and even setting up the XR simulator proved to be a challenge. There’s still a lot missing, but seeing the companion come to life, turn to face the user, and speak the first line from my storyboard made the process incredibly rewarding. 
+
+<img width="1080" height="607" alt="linkedin" src="https://github.com/user-attachments/assets/05d28efb-a8fb-493a-a5b8-ae2b85247fa7" />
